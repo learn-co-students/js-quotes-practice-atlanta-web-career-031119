@@ -1,14 +1,8 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Don't count the days, make the days count.",
-      "likes": 1,
-      "author": "Mike Tyson"
-    },
-    {
       "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from farts.",
       "likes": 1,
       "author": "Collin Powell"
     },
@@ -25,17 +19,22 @@
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "likes": 1,
       "author": "Winston Churchhill"
     },
     {
-      "id": 6,
-      "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
-      "likes": 1,
-      "author": "Newt Gingrich"
+      "quote": "My own take on the word \"transgender\" is that it's an umbrella term for anyone who breaks any rules, laws, guidelines or protocol of gender. So, to really be an ally, it's important that you recognize and embrace your own transgender nature. Really, I haven't met a single person who doesn't break some rule of gender. In other words, we will assimilate you. Resistance is futile.",
+      "author": "Kate Bornstein",
+      "likes": 2,
+      "id": 7
+    },
+    {
+      "quote": "The choice between two of something is not a choice at all, but rather the opportunity to subscribe to the value system which holds the two presented choices as mutually exclusive alternatives.",
+      "author": "Kate Bornstein",
+      "likes": 3,
+      "id": 8
     }
-
   ]
 }
