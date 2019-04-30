@@ -1,3 +1,14 @@
 #quote-list {
   padding: 20px;
 }
+
+textarea{
+  columns:auto;
+  rows: 5;
+}
+blockquote {
+    background: white;
+    border: 10px solid grey;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
